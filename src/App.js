@@ -7,16 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there
-        </p>
         <a
           className="App-link"
           href="https://geauxaudio.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Geaux Audio
+          Hi there
         </a>
+        </p>
       </header>
     </div>
   );
